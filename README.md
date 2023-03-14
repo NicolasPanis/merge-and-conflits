@@ -1,3 +1,5 @@
+LOCAL
+
 # merge-and-conflits
 
 Crée un nouveau dépôt sur GitHub, en cochant "Initialize this repository with a README".
